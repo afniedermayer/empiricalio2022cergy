@@ -10,6 +10,11 @@
 
 [Notebook on Kernel Density Estimation](kernel-density-example.ipynb)
 
+[Solution for Notebook on Kernel Density Estimation (under the assumption of symmetry)](kernel-density-solution-symmetric.ipynb)
+
+[Solution for Notebook on Kernel Density Estimation (without symmetry assumption)](kernel-density-solution.ipynb)
+
+
 ## Lecture 3
 
 ### Lecture Notes
