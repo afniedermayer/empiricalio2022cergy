@@ -46,3 +46,5 @@ Please download the following notebooks, read them carefully, and execute the co
 
 [Notebook on Maximization and Equation Solving](maximize_solve.ipynb)
 
+[Solution for Notebook on Maximization and Equation Solving](maximize_solve_solution.ipynb)
+
